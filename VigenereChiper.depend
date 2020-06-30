@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593093109 source:e:\kuliah\kriptografi\vigenerechiper\fungsi.c
+	"header.h"
+
+1593092807 e:\kuliah\kriptografi\vigenerechiper\header.h
+	<stdio.h>
+	<string.h>
+	<process.h>
+
+1593092960 source:e:\kuliah\kriptografi\vigenerechiper\main.c
+	"header.h"
+
